@@ -2,7 +2,7 @@
 Материалы прикладного потока ФИВТ Весна 2020.
 
 Для изменения ссылок на свой репозиторий после клонирования :
-python3 change_readmy.py your_github (например python3 change_readmy.py topogar)
+python3 change_readme.py your_github (например python3 change_readme.py topogar)
 
 | Статистика | ML лекции  | ML семинары | Доп. главы анализа данных  |
 | ------------- | ------------- | ------------- | ------------- |
